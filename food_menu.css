@@ -1,0 +1,350 @@
+body{
+    background-color: burlywood;
+    width: 1200px;
+}
+
+h2{
+    font-size: 110px;
+    margin-top: 0px;
+    font-style:italic;
+    color: palevioletred;
+    text-shadow:2px 2px black;
+    font-weight: bold;
+}
+.cocktail img{
+    float: right;
+    width: 250px;
+    height: 320px;
+    margin: 12px 32px;
+    padding: auto;
+    border: 3px solid crimson;
+    border-radius: 25px;
+}
+.cocktail h3{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+}
+
+
+.cocktail p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    bottom: 1em;
+}
+
+.cocktail button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    margin-left: 400px;
+}
+.juices img{
+    float: left;
+    width: 250px;
+    height: 310px;
+    margin-top: 100px;
+    margin-left: 12px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+}
+
+.juices h3{
+    font-size: 40px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+}
+
+.juices p{
+    font-size: 20px;
+    font-weight: bold;
+     position: relative; 
+    top: 85px;
+    left: 50px;
+}
+
+.juices button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 100px;
+    left:500px;
+}
+
+.keto img{
+    float: right;
+    width: 350px;
+    height: 200px;
+    position: relative;
+    top: 15em;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    margin-right: 12px;
+}
+
+.keto h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 15rem;
+    right: 250px;
+}
+
+.keto p{
+    font-size: 20px;
+    font-weight: bold;
+     position: relative; 
+     top:11em;
+     right: 250px;
+}
+
+.keto button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 7em;
+    left: 9em;
+}
+
+.biryani img{
+    float: left;
+    width: 250px;
+    height: 250px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 17em;
+    margin-left: 12px;
+}
+
+.biryani h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 17rem;
+    left: 4rem;
+}
+
+.biryani p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; 
+    top:16rem;
+    left: 3em;
+}
+
+.biryani button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 9em;
+    left:500px;
+}
+
+.north img{
+    float: right;
+    width: 250px;
+    height: 200px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 20em;
+    margin-right: 12px;
+}
+.north h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 8em;
+    margin-left: 23px;
+}
+
+.north p{
+    font-size: 20px;
+    font-weight: bold;
+     position: relative; 
+     top:15em;
+     margin-left: 23px;
+}
+
+.north button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 10em;
+    left: 15em;
+}
+
+.south img{
+    float: left;
+    width: 250px;
+    height: 250px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 22em;
+    left: 12px;
+}
+
+.south h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 9em;
+    left: 1em;
+}
+
+.south p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 17em;
+    left: 2em;
+}
+.south button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 11em;
+    left: 15em;
+}
+
+.oreo img{
+    float: right;
+    width: 310px;
+    height: 240px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 27em;
+}
+
+.oreo h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 11em;
+    left: 1rem;
+
+}
+
+.oreo p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 22em;
+    left: 1em;
+}
+.oreo button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    left: 14em;
+    top: 15em;
+}
+
+.cookie img{
+    float: left;
+    width: 250px;
+    height: 250px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 32em;
+    left: 1em;
+}
+
+.cookie h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top: 11em;
+    left: 1em;
+}
+.cookie p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;  
+    top: 21em;
+    left: 3em;
+}
+
+.cookie button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 14em;
+    left: 24em;
+}
+
+.cake img{
+    float: right;
+    width: 300px;
+    height: 250px;
+    border: 3px solid crimson;
+    border-radius: 25px;
+    position: relative;
+    top: 31em;
+    right: 20px;
+}
+
+.cake h3{
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: 40px;
+    position: relative;
+    top:13em;
+    left: 1rem;
+}
+
+.cake p{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 25em;
+    left: 1rem;
+}
+
+.cake button{
+    font-size: 30px;
+    color: crimson;
+    border-radius: 25px;
+    border: 2px solid crimson;
+    position: relative;
+    top: 17em;
+    left: 15em;
+}
+
+button a{
+    text-decoration: none;
+    color: crimson;
+}
+
+img:hover{
+    transform: scale(1.5);
+}

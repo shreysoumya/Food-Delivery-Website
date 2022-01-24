@@ -1,0 +1,72 @@
+body{
+    background-image: url(contact.jpg);
+    background-size: cover;
+}
+
+.phone a{
+    font-size: 19px;
+    color:white ;
+    margin: 15px 30px;
+    padding: 10px 10px;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.navbar{
+    padding: 20px 20px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    text-shadow: 1px 1px skyblue;
+    margin-left: 120px;
+}
+
+label{
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+    padding: auto;
+}
+
+#contact-box input{
+    margin-left: 100px;
+    font-size: 22px;
+    border: 3px solid ;
+    color: dodgerblue;
+    border-radius: 10px;
+}
+
+textarea{
+    margin-left: 100px;
+    border: 3px solid ;
+    color: dodgerblue;
+    border-radius: 10px;
+}
+ 
+#contact{
+    border: 5px solid dodgerblue;
+    border-radius: 20px;
+    margin-right: 800px;
+    margin-left: 20px;
+}
+
+button{
+    font-size: 22px;
+    margin-left: 200px;
+    margin-bottom: 6px;
+    color: dodgerblue;
+    border: 3px solid dodgerblue;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: dodgerblue;
+    color: white;
+    border: 2px solid white;
+}
